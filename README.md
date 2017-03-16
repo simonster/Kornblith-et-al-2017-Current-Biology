@@ -1,6 +1,6 @@
 This repository contains the raw data and analysis files for:
 
-Kornblith, S., Quiroga, R. Q., Koch, C., Fried, I., and Mormann, F. (2017). Persistent single neuron activity during working memory in the human medial temporal lobe. _Current Biology_, in press.
+Kornblith, S., Quiroga, R. Q., Koch, C., Fried, I., and Mormann, F. (2017). [Persistent single neuron activity during working memory in the human medial temporal lobe](http://www.sciencedirect.com/science/article/pii/S0960982217301495). _Current Biology_, in press.
 
 ## Raw data
 
@@ -78,17 +78,17 @@ The raw and processed data are made available under the [Open Database License](
 
 The analysis code is made available under the MIT license:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+> Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
+>
+> The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
