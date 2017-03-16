@@ -67,3 +67,31 @@ docker run -it -p=127.0.0.1:8888:8888 simonster/kornblith-et-al-2017-current-bio
 This will fetch the Docker image and launch an instance of Jupyter notebook. You can run the notebook by navigating to [http://127.0.0.1:8888/notebooks/Paper.ipynb](http://127.0.0.1:8888/notebooks/Paper.ipynb). When asked for a token, enter the 48 character string following "http://.../?token=" that is shown in the shell.
 
 Within the Docker image, the contents of this repository are located in `/root/.julia/v0.5/Kornblith-et-al-2017-Current-Biology`.
+
+## License
+
+### Data
+
+The raw and processed data are made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). We consider intermediate results of analyses of the raw data (such as the processed data included here) to constitute derivative works. Thus, works making use of the raw data must make any such intermediate results available under the ODbL. Additionally, we kindly request that works making use of our data make the code necessary to reproduce their analyses publicly available.
+
+### Code
+
+The analysis code is made available under the MIT license:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
